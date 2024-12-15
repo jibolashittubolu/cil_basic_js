@@ -1,3 +1,3 @@
-# cil_basic_js.
+# cil_basic_js
 
 # basic javascript
