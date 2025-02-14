@@ -10,7 +10,6 @@ const fetchListX = async () => {
         li.appendChild(document.createTextNode(user.name));                
 
         const list_api = document.querySelector('.list-api-display');
-
         list_api.appendChild(li)
         }
     }
