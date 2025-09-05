@@ -1,5 +1,3 @@
-
-
 const fetchListX = async () => {
     try{
     // const data = await fetch('https://jsonplaceholder.typicode.com/users')
